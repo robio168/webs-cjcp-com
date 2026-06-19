@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robio168.github.io/webs-cjcp-com/sitemap.xml
